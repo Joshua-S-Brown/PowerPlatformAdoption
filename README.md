@@ -16,7 +16,7 @@
 	- reate a stakeholder register with contact information and roles.
 - Prepare for stakeholder interviews.
 	- Develop a comprehensive interview guide, focusing on understanding stakeholder needs, expectations, potential challenges and opportunities.
-	- eview the interview guide with the project team and adjust based on feedback.
+	- Review the interview guide with the project team and adjust based on feedback.
 	- Conduct a pilot interview with a friendly stakeholder to test and refine the interview guide.
 - Schedule and conduct interviews.
 	- Send out interview invitations to stakeholders with proposed dates and times.
