@@ -2,7 +2,7 @@
 Welcome to the Power Platform Adoption Program! This program is designed to help you seamlessly integrate the Power Platform into your organization, revolutionizing how you work and empowering every team member to achieve more. As a product manager, you will play a crucial role in guiding your organization through this transformative journey.
 
 ## How to Get Started
-To begin your adoption journey, refer to our comprehensive roadmap, available on our new blog. The roadmap is structured into strategic phases, each with specific tasks and acceptance criteria. It serves as your guide to discovering and aligning with stakeholders, establishing dynamic teams, implementing robust governance policies, fostering a champion network, and leading the training, launch, automation, and continuous improvement of your Power Platform use.
+To begin your adoption journey, refer to our comprehensive roadmap, available on our new [Blog](https://digitalrevolution.blog/adoption-roadmap/). The roadmap is structured into strategic phases, each with specific tasks and acceptance criteria. It serves as your guide to discovering and aligning with stakeholders, establishing dynamic teams, implementing robust governance policies, fostering a champion network, and leading the training, launch, automation, and continuous improvement of your Power Platform use.
 
 ## What to Expect
 By following our roadmap, you'll embark on an exciting and impactful journey. Here's what you can expect to achieve:
