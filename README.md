@@ -2,7 +2,7 @@
 Welcome to the Power Platform Adoption Program! This program is designed to help you seamlessly integrate the Power Platform into your organization, revolutionizing how you work and empowering every team member to achieve more. As a product manager, you will play a crucial role in guiding your organization through this transformative journey.
 
 ## How to Get Started
-To begin your adoption journey, refer to our comprehensive roadmap, available in the Wiki. The roadmap is structured into strategic phases, each with specific tasks and acceptance criteria. It serves as your guide to discovering and aligning with stakeholders, establishing dynamic teams, implementing robust governance policies, fostering a champion network, and leading the training, launch, automation, and continuous improvement of your Power Platform use.
+To begin your adoption journey, refer to our comprehensive roadmap, available on our new blog. The roadmap is structured into strategic phases, each with specific tasks and acceptance criteria. It serves as your guide to discovering and aligning with stakeholders, establishing dynamic teams, implementing robust governance policies, fostering a champion network, and leading the training, launch, automation, and continuous improvement of your Power Platform use.
 
 ## What to Expect
 By following our roadmap, you'll embark on an exciting and impactful journey. Here's what you can expect to achieve:
@@ -17,7 +17,7 @@ By following our roadmap, you'll embark on an exciting and impactful journey. He
 * Continuously monitor and improve your Power Platform usage, ensuring it evolves with your organization's needs.
 
 ## Access the Comprehensive Guide
-For an in-depth understanding of the Power Platform adoption process, visit our [Wiki](https://github.com/Joshua-S-Brown/PowerPlatformAdoption/wiki). There, you will find detailed information, resources, and step-by-step instructions to support your adoption journey.
+For an in-depth understanding of the Power Platform adoption process, visit our [Blog](https://digitalrevolution.blog/adoption-roadmap/). There, you will find detailed information, resources, and step-by-step instructions to support your adoption journey.
 
 ## Join the Power Platform Community
 We encourage you to join our thriving Power Platform community. Connect with like-minded individuals, share experiences, ask questions, and learn from one another. Engage in discussions and stay up-to-date with the latest trends and best practices.
